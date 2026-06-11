@@ -1,4 +1,3 @@
-"# api-python-FastAPI" 
 Actúa como un tutor experto en Python y desarrollo backend. Quiero aprender a crear una API REST básica usando el framework Flask y SQLite como base de datos. No quiero nada de frontend (nada de HTML, CSS o plantillas). El proyecto debe responder exclusivamente en formato JSON.
 
 El sistema será una base de datos de VENTAS muy básica con tres tablas:
